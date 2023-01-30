@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi I'm Himanshu <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<!--
-**himanshugupta03/himanshugupta03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Himanshu R. Gupta a Full Stack Web Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UCxnkZ0bex2HgVDvB0xQsWvQ). I Spend most of time on coding outstanding projects or recording tutorials.
 
-Here are some ideas to get you started:
+:mailbox: Reach me out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linked In](https://img.shields.io/badge/-Himanshu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshugupta9082/)
+
+<!-- TODO: Add last video link -->
+
+- 🔭 I’m currently working at @Cognizant
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’m looking for help with Outstanding Video ideas.
+- 📫 How to reach me: himanshurajeshgupta@gmail.com.
+- 😄 Pronouns: Codingtrick, i_am_hkg, cat_coder.
+- ⚡ Fun fact: I play games and go to the GYM very often.
